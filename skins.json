@@ -1,0 +1,471 @@
+{
+  "skins": [
+    {
+      "localization_name": "Allay”,
+      "geometry": "geometry.allay",
+      "texture": "allay.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Armor Stand”,
+      "geometry": "geometry.armor.stand",
+      "texture": "armor_stand.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Axolotl (normal)”,
+      "geometry": "geometry.axolotl.normal",
+      "texture": "axolotl_normal.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Axolotl (gold)”,
+      "geometry": "geometry.axolotl.gold",
+      "texture": "axolotl_gold.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Axolotl (brown)”,
+      "geometry": "geometry.axolotl.brown",
+      "texture": "axolotl_brown.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Axolotl (cyan)”,
+      "geometry": "geometry.axolotl.cyan",
+      "texture": "axolotl_cyan.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Axolotl (blue)”,
+      "geometry": "geometry.axolotl.blue",
+      "texture": "axolotl_blue.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Bee”,
+      "geometry": "geometry.bee",
+      "texture": "bee.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Bee (angry)”,
+      "geometry": "geometry.bee.angry",
+      "texture": "texture.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Cat (white)”,
+      "geometry": "geometry.cat.white",
+      "texture": "cat_white.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Cat (tabby)”,
+      "geometry": "geometry.cat.tabby",
+      "texture": "cat_tabby.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Cat (siamese)”,
+      "geometry": "geometry.cat.siamese",
+      "texture": "cat_siamese.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Cat (red)”,
+      "geometry": "geometry.cat.red",
+      "texture": "cat_red.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Cat (ragdoll)”,
+      "geometry": "geometry.cat.ragdoll",
+      "texture": "cat_ragdoll.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Cat (persian)”,
+      "geometry": "geometry.cat.persian",
+      "texture": "cat_persian.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Cat (ocelot)”,
+      "geometry": "geometry.cat.ocelot",
+      "texture": "cat_ocelot.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Cat (jellie)”,
+      "geometry": "geometry.cat.jellie",
+      "texture": "cat_jellie.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Cat (calico)”,
+      "geometry": "geometry.cat.calico",
+      "texture": "cat_calico.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Cat (british shorthair)”,
+      "geometry": "geometry.cat.british.shorthair",
+      "texture": "cat_british_shorthair.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Cat (black)”,
+      "geometry": "geometry.cat.black",
+      "texture": "cat_black.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Cat (all black)”,
+      "geometry": "geometry.cat.all.black",
+      "texture": "cat_all_black.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Cow”,
+      "geometry": "geometry.cow",
+      "texture": "cow.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Cow (red mooshroom)”,
+      "geometry": "geometry.cow.red.mooshroom",
+      "texture": "cow_red_mooshroom.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Cow (brown mooshroom)”,
+      "geometry": "geometry.cow.brown.mooshroom",
+      "texture": "cow_brown_mooshroom.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Creeper”,
+      "geometry": "geometry.creeper",
+      "texture": "creeper.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Ender Dragon”,
+      "geometry": "geometry.ender.dragon",
+      "texture": "ender_dragon.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Enderman”,
+      "geometry": "geometry.enderman",
+      "texture": "enderman.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Fox”,
+      "geometry": "geometry.fox",
+      "texture": "fox.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Frog (temperate)”,
+      "geometry": "geometry.frog.temperate",
+      "texture": "temperate_frog.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Frog (warm)”,
+      "geometry": "geometry.frog.warm",
+      "texture": "warm_frog.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Frog (cold)”,
+      "geometry": "geometry.frog.cold",
+      "texture": "cold_frog.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Ghast”,
+      "geometry": "geometry.ghast",
+      "texture": "ghast.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Ghast (shooting)”,
+      "geometry": "geometry.ghast.shooting",
+      "texture": "ghast_shooting.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Goat”,
+      "geometry": "geometry.goat",
+      "texture": "goat.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Hoglin”,
+      "geometry": "geometry.hoglin",
+      "texture": "hoglin.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Zoglin”,
+      "geometry": "geometry.zoglin",
+      "texture": "zoglin.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Donkey”,
+      "geometry": "geometry.donkey",
+      "texture": "donkey.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Horse (white)”,
+      "geometry": "geometry.horse.white",
+      "texture": "horse_white.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Horse (gray)”,
+      "geometry": "geometry.horse.gray",
+      "texture": "horse_gray.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Horse (black)”,
+      "geometry": "geometry.horse.black",
+      "texture": "horse_black.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Horse (chestnut)”,
+      "geometry": "geometry.horse.chestnut",
+      "texture": "horse_chestnut.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Horse (creamy)”,
+      "geometry": "geometry.horse.creamy",
+      "texture": "horse_creamy.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Skeleton Horse”,
+      "geometry": "geometry.skeleton.horse",
+      "texture": "horse_skeleton.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Zombie Horse”,
+      "geometry": "geometry.zombie.horse",
+      "texture": "horse_zombie.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Mule”,
+      "geometry": "geometry.mule",
+      "texture": "mule.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Iron Golem”,
+      "geometry": "geometry.iron.golem",
+      "texture": "iron_golem.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Llama (white)”,
+      "geometry": "geometry.llama.white",
+      "texture": "llama_white.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Llama (gray)”,
+      "geometry": "geometry.llama.gray",
+      "texture": "llama_gray.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Llama (brown)”,
+      "geometry": "geometry.llama.brown",
+      "texture": "llama_brown.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Llama (creamy)”,
+      "geometry": "geometry.llama.creamy",
+      "texture": "llama_creamy.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Panda”,
+      "geometry": "geometry.panda",
+      "texture": "panda.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Panda (brown)”,
+      "geometry": "geometry.panda.brown",
+      "texture": "brown_panda.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Parrot (blue)”,
+      "geometry": "geometry.parrot.blue",
+      "texture": "parrot_blue.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Parrot (green)”,
+      "geometry": "geometry.parrot.green",
+      "texture": "parrot_green.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Parrot (grey)”,
+      "geometry": "geometry.parrot.grey",
+      "texture": "parrot_grey.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Parrot (red)”,
+      "geometry": "geometry.parrot.red",
+      "texture": "parrot_red.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Parrot (yellow and blue)”,
+      "geometry": "geometry.parrot.yellow.blue",
+      "texture": "parrot_yellow_blue.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Pig”,
+      "geometry": "geometry.pig",
+      "texture": "pig.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Piglin”,
+      "geometry": "geometry.piglin",
+      "texture": "piglin.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Rabbit (black)”,
+      "geometry": "geometry.rabbit.black",
+      "texture": "rabbit_black.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Rabbit (brown)”,
+      "geometry": "geometry.rabbit.brown",
+      "texture": "rabbit_brown.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Rabbit (caerbannog)”,
+      "geometry": "geometry.rabbit.caerbannog",
+      "texture": "rabbit_caerbannog.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Rabbit (gold)”,
+      "geometry": "geometry.rabbit.gold",
+      "texture": "rabbit_gold.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Rabbit (salt)”,
+      "geometry": "geometry.rabbit.salt",
+      "texture": "rabbit_salt.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Rabbit (white)”,
+      "geometry": "geometry.rabbit.white",
+      "texture": "rabbit_white.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Rabbit (white but splotched with black)”,
+      "geometry": "geometry.rabbit.white.splotched",
+      "texture": "rabbit_white_splotched.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Spider”,
+      "geometry": "geometry.spider",
+      "texture": "spider.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Squid”,
+      "geometry": "geometry.squid",
+      "texture": "squid.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Glow Squid”,
+      "geometry": "geometry.glow.squid",
+      "texture": "glow_squid.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Strider”,
+      "geometry": "geometry.strider",
+      "texture": "strider.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Strider (cold)”,
+      "geometry": "geometry.strider.cold",
+      "texture": "strider_cold.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Tadpole”,
+      "geometry": "geometry.tadpole",
+      "texture": "tadpole.png",
+      "type": "free"
+    },
+    {
+      "localisation_name": "Turtle",
+      "geometry": "geometry.turtle",
+      "texture": "turtle.png",
+      "type": "free"
+    },
+    {
+      "localisation_name": "Warden",
+      "geometry": "geometry.warden",
+      "texture": "warden.png",
+      "type": "free"
+    },
+    {
+      "localisation_name": "Wither",
+      "geometry": "geometry.wither",
+      "texture": "wither.png",
+      "type": "free"
+    },
+    {
+      "localisation_name": "Wolf",
+      "geometry": "geometry.wolf",
+      "texture": "wolf.png",
+      "type": "free"
+    },
+    {
+      "localisation_name": "Zombie",
+      "geometry": "geometry.zombie",
+      "texture": "zombie",
+      "animations":{
+         "move.arms": "animation.player.move.arms.zombie"
+    },
+      "type": "free"
+    }
+  ],
+  "serialize_name": "mobmorph”,
+  "localization_name": "mobmorph"
+}

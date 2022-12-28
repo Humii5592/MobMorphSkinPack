@@ -1,0 +1,15 @@
+{
+  "header": {
+    "name": "Mob Morph Skin Pack",
+    "version": [0, 0, 1],
+    "uuid": "e328191d-1b03-4802-81c6-8b883ea7938e"
+  },
+  "modules": [
+    {
+      "version": [0, 0, 1],
+      "type": "skin_pack",
+      "uuid": "173175a2-28e8-45d6-9c08-f708b349bdbb"
+    }
+  ],
+  "format_version": 1
+}
